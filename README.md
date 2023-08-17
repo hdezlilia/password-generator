@@ -25,4 +25,5 @@ MIT License
 
 ## ScreenShot 
 
-![Screenshot](image.png)
+![Screenshot](03-javascript-homework-demo.png)
+ 
