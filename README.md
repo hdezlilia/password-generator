@@ -25,4 +25,4 @@ MIT License
 
 ## ScreenShot 
 
-![alt text](http://url/to/image.png)
+![Screenshot](image.png)
